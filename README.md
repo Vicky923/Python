@@ -1,10 +1,10 @@
-## 合作项目主题
+## 合作项目主题:sunflower:
 
 有关美国各州的药物中毒分基本情况、地区情况、发展趋势三个方面的可视化及交互
 
 ### Pythonanywhere url: [http://vicky923.pythonanywhere.com/](http://vicky923.pythonanywhere.com/)
 
-## 技术文档描述
+## 技术文档描述:pushpin:
 
 - **HTML档描述**
 
